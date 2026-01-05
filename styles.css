@@ -332,7 +332,6 @@ a:focus {
 /* MOBILE BACKGROUND FIX — SAFE VERSION */
 @media (max-width: 768px) {
   body {
-    background-attachment: scroll;
-    background-position: center top;
+    background-image: url("background-mobile.jpg");
   }
 }
